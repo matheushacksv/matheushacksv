@@ -8,11 +8,8 @@ _Not a hacker_
 
 I build APIs, services and automations
 
-[![Email](https://img.shields.io/badge/Email-matheushacksv%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheushacksv@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-matheushacksv-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheushacksv)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20Hack-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-hack/)
+[![Email](https://img.shields.io/badge/Email-matheushacksv%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheushacksv@gmail.com)&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-matheushacksv-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheushacksv)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20Hack-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-hack/)
 
-<img src="https://komarev.com/ghpvc/?username=matheushacksv&style=for-the-badge&color=blueviolet" alt="Profile views" />
 
 </div>
 
