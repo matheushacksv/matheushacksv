@@ -2,7 +2,7 @@
 
 # Hi, I'm Matheus Hack 👋
 
-**Backend developer in progress — Rust 🦀 & Python 🐍**
+**Backend developer in progress — Rust 🦀 · Go 🐹 · Python 🐍**
 
 Building APIs, automations, and small tools to learn by doing.
 
@@ -19,6 +19,7 @@ Building APIs, automations, and small tools to learn by doing.
 
 - 🎓 Computer Science student
 - 🦀 Currently learning **Rust** and **Axum** for backend / web APIs
+- 🐹 Also learning **Go** and its standard library
 - 🐍 Using **Python** for automation, data and scripting
 - ⚙️ I automate operations for a real business (Docker, n8n, messaging APIs)
 - 🌱 I learn best by building small projects end to end
@@ -28,6 +29,7 @@ Building APIs, automations, and small tools to learn by doing.
 ### 🛠️ Tech & tools
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
